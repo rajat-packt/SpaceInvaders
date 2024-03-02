@@ -1,8 +1,12 @@
-# Space Explorer Game
+# Space Invaders Game
 
 ## Description
 
-Space Explorer is an exciting and challenging shooting game set in space. Players navigate a spaceship, avoid obstacles, collect stars, and use various power-ups to survive and score as high as possible.
+Space Invaders is an exciting and challenging shooting game set in space. Players navigate a spaceship, avoid obstacles, collect stars, and use various power-ups to survive and score as high as possible.
+
+<p align="center">
+  <img src="images/spaceexplorer.jpg" alt="SpaceInvaders">
+</p>
 
 ## Features
 
@@ -27,7 +31,7 @@ Space Explorer is an exciting and challenging shooting game set in space. Player
 Clone the repository and open `index.html` in your browser to start playing:
 
 ```bash
-git clone https://github.com/PacktPublishing/Github-For-Young-Coders.git
+git clone https://github.com/error505/SpaceInvaders.git
 ```
 
 ## Technologies Used
@@ -38,16 +42,8 @@ git clone https://github.com/PacktPublishing/Github-For-Young-Coders.git
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/space-explorer/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/error505/SpaceInvaders/issues).
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/yourusername/space-explorer/blob/main/LICENSE) for more information.
-
-### How to Use This Template
-
-- Replace `yourusername` with your actual GitHub username.
-- Replace the `Project Link` URL with the URL of your GitHub repository.
-- Adjust the `Description`, `Features`, and `How to Play` sections according to the specifics of your game.
-- Update the `Contact` section with your contact information.
-- If you have an `issues page` or `LICENSE` file, provide the correct links.
+Distributed under the MIT License. See [LICENSE](https://github.com/error505/SpaceInvaders/blob/main/LICENSE) for more information.
